@@ -1,8 +1,8 @@
 
-# Flask Cohere Chatbot [Live Demo](https://hooman-chatbot.onrender.com)
+# Flask Cohere Chatbot
 
 A simple web-based chatbot built with Flask and powered by the [Cohere](https://cohere.com/) AI API. Users can ask questions through a browser interface and receive AI-generated responses rendered in formatted Markdown.
-![Screenshot of the app](chatbot-image.png)
+
 ## Features
 
 - Clean web UI with a text input form
